@@ -1,4 +1,4 @@
-# Blog
+# How to create a new blog
 
 ```bash
 jekyll -v
